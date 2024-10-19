@@ -1,0 +1,7 @@
+# Ignore vendor directory
+vendor/
+# Ignore Go binaries
+*.exe
+*.test
+# Ignore local configuration files
+.env
